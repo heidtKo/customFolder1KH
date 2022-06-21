@@ -1,0 +1,12 @@
+{
+  "packageDirectories": [
+    {
+      "path": "myCoreApp",
+      "default": true
+    }
+  ],
+  "name": "customFolder1KH",
+  "namespace": "",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "54.0"
+}
