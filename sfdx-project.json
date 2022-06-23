@@ -3,6 +3,10 @@
     {
       "path": "myCoreApp",
       "default": true
+    },
+    {
+      "path": "mySalesApp",
+      "default": false
     }
   ],
   "name": "customFolder1KH",
