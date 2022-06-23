@@ -7,6 +7,10 @@
     {
       "path": "mySalesApp",
       "default": false
+    },
+    {
+      "path": "myServiceApp",
+      "default": false
     }
   ],
   "name": "customFolder1KH",
