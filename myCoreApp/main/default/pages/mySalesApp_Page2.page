@@ -3,5 +3,6 @@
   <h1>Congratulations</h1>
   This is your new Sales App Page 1
   This is a new Change
-  {!Environment.specificFiles_SpecificFolders}
+  visit this site: http://this.is.a.combined.scope.test
+  <!-- End Default Content REMOVE THIS -->
 </apex:page>

@@ -5,6 +5,6 @@
     http://this.is.a.combined.scope.test
     <confirmationTokenRequired>false</confirmationTokenRequired>
     <!-- End Default Content REMOVE THIS -->
-    <h1>Congratulations</h1>
+    {!Environment.allFiles_specificFolder}
     <label>mySalesApp_Page1</label>
 </myRandom>
