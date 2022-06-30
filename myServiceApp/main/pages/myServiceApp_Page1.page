@@ -2,6 +2,5 @@
   <!-- Begin Default Content REMOVE THIS -->
   {!Environment.allFiles_specificFolder}
   This is your new Service App Page 1
-  Also, check out: {!Environment.allFiilesAllFolders}
   <!-- End Default Content REMOVE THIS -->
 </apex:page>
