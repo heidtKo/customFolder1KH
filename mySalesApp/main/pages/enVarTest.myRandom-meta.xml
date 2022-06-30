@@ -4,5 +4,6 @@
     <availableInTouch>false</availableInTouch>
     <confirmationTokenRequired>false</confirmationTokenRequired>
     <!-- End Default Content REMOVE THIS -->
+    <h1>Congratulations</h1>
     <label>mySalesApp_Page1</label>
 </myRandom>
