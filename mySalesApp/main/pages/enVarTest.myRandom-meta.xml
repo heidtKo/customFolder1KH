@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<myRandom xmlns="http://soap.sforce.com/2006/04/metadata">
+    <apiVersion>55.0</apiVersion>
+    <availableInTouch>false</availableInTouch>
+    <confirmationTokenRequired>false</confirmationTokenRequired>
+    <!-- End Default Content REMOVE THIS -->
+    <label>mySalesApp_Page1</label>
+</myRandom>

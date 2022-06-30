@@ -3,5 +3,7 @@
     {!Environment.specificFiles_AllFolders}
     <availableInTouch>false</availableInTouch>
     <confirmationTokenRequired>false</confirmationTokenRequired>
+    <description>This one below should be replaced in the XML file
+&lt;!-- End Default Content REMOVE THIS --&gt;</description>
     <label>mySalesApp_Page1</label>
 </ApexPage>
