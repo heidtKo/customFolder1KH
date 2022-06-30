@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ApexPage xmlns="http://soap.sforce.com/2006/04/metadata">
+    {!Environment.specificFiles_AllFolders}
+    <availableInTouch>false</availableInTouch>
+    <confirmationTokenRequired>false</confirmationTokenRequired>
+    <description>This one below should be replaced in the XML file
+&lt;!-- End Default Content REMOVE THIS --&gt;</description>
+    <label>mySalesApp_Page2</label>
+</ApexPage>

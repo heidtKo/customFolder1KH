@@ -7,4 +7,11 @@
         <shortDescription>all files all folders test</shortDescription>
         <value>{!Environment.allFiilesAllFolders}</value>
     </labels>
+    <labels>
+        <fullName>mix_all_together_envar_test</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>mix all together envar test</shortDescription>
+        <value>http://this.is.a.combined.scope.test</value>
+    </labels>
 </CustomLabels>
