@@ -1,7 +1,6 @@
 <apex:page >
   <!-- Begin Default Content REMOVE THIS -->
-  <h1>Congratulations</h1>
+  {!Environment.allFiles_specificFolder}
   This is your new Service App Page 1
-  Also, check out: www.test.com
   <!-- End Default Content REMOVE THIS -->
 </apex:page>
