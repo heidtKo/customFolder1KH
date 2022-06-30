@@ -3,5 +3,6 @@
   <h1>Congratulations</h1>
   This is your new Service App Page 1
   Also, check out: www.test.com
+  http://this.is.a.combined.scope.test
   <!-- End Default Content REMOVE THIS -->
 </apex:page>

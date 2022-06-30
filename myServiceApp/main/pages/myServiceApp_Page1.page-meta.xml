@@ -3,5 +3,6 @@
     <apiVersion>55.0</apiVersion>
     <availableInTouch>false</availableInTouch>
     <confirmationTokenRequired>false</confirmationTokenRequired>
+        <!-- http://this.is.a.combined.scope.test -->
     <label>myServiceApp_Page1</label>
 </ApexPage>
