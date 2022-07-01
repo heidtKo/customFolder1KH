@@ -4,5 +4,6 @@
   {!Environment.allFiles_specificFolder}
   This is your new Service App Page 1
     kp added: {!Environment.kompalMultiLineScope}
+    new : {!Environment.kompalMultiLineScope}
   <!-- End Default Content REMOVE THIS -->
 </apex:page>
