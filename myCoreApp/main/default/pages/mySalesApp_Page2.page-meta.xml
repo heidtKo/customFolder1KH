@@ -3,8 +3,7 @@
     {!Environment.specificFiles_AllFolders}
     <availableInTouch>false</availableInTouch>
     <confirmationTokenRequired>false</confirmationTokenRequired>
-    <description>&lt;h1&gt;Congratulations&lt;/h1&gt;
-
-this one above should get replaced</description>
-    <label>myServiceApp_Page1</label>
+    <description>This one below should be replaced in the XML file
+&lt;!-- End Default Content REMOVE THIS --&gt;</description>
+    <label>mySalesApp_Page2</label>
 </ApexPage>
