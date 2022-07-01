@@ -2,7 +2,7 @@
 <!-- Begin Default Content REMOVE THIS -->
 <h1>Congratulations</h1>
 This is your new Page: my core app page 2
-        <!-- http://this.is.a.combined.scope.test -->
+        <!-- {!Environment.mix_all_together} -->
 
 <!-- End Default Content REMOVE THIS -->
 </apex:page>
