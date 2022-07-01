@@ -3,7 +3,7 @@
   <h1>Congratulations</h1>
   This is your new Sales App Page 1
   This is a new Change
-  visit this site: {!Environment.mix_all_together}
+  visit this site: http://this.is.a.combined.scope.test
   kp added: http://dummyscopTest.kp
     :http://dummyscopTest.kp
    added 3: http://dummyscopTest.kp
