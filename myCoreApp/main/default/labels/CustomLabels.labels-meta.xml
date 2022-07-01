@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>all_files_all_folders_test</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>all files all folders test</shortDescription>
+        <value>{!Environment.allFiilesAllFolders}</value>
+    </labels>
+    <labels>
+        <fullName>mix_all_together_envar_test</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>mix all together envar test</shortDescription>
+        <value>http://this.is.a.combined.scope.test</value>
+    </labels>
+</CustomLabels>
