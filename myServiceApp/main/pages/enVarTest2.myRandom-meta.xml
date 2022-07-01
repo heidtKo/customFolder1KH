@@ -2,7 +2,7 @@
 <myRandom xmlns="http://soap.sforce.com/2006/04/metadata">
     <apiVersion>55.0</apiVersion>
     <availableInTouch>false</availableInTouch>
-    http://this.is.a.combined.scope.test
+    {!Environment.mix_all_together}
     <confirmationTokenRequired>false</confirmationTokenRequired>
     <!-- End Default Content REMOVE THIS -->
     {!Environment.allFiles_specificFolder}
