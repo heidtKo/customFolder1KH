@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>Assignment_Group_Name</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Assignment Group Name</shortDescription>
+        <value>FIRE Team</value>
+    </labels>
+    <labels>
+        <fullName>Default_Role</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Default Role</shortDescription>
+        <value>--Select Role--</value>
+    </labels>
+    <labels>
+        <fullName>Error_during_Opportunity_Creation</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Error during Opportunity Creation</shortDescription>
+        <value>Opportunity Account owner is not associated to current ESSR user.</value>
+    </labels>
+    <labels>
+        <fullName>External_Links_Label</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>External_Links_Label</shortDescription>
+        <value>External Links</value>
+    </labels>
+    <labels>
+        <fullName>GuideCx_Future_callout_Limit</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>GuideCx Future callout Limit</shortDescription>
+        <value>5</value>
+    </labels>
+    <labels>
+        <fullName>LeadSourcePrepopulated</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>LeadSourcePrepopulated</shortDescription>
+        <value>Manual</value>
+    </labels>
+    <labels>
+        <fullName>NextGroupMemberUserActiveTime</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Next GroupMember User Active Time</shortDescription>
+        <value>960</value>
+    </labels>
+    <labels>
+        <fullName>PRESALESSUPPORTTYPES</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>PRE SALES SUPPORTTYPES</shortDescription>
+        <value>Sequential IP Requests:eSIM Request - Bulk:Other FIRE Support</value>
+    </labels>
+    <labels>
+        <fullName>RegexExpressionForRecordId</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>RegexExpressionForRecordId</shortDescription>
+        <value>[?&amp;]inContextOfRef(=1.([^&amp;#]*)|&amp;|#|$)</value>
+    </labels>
+    <labels>
+        <fullName>SFDC_Links_Label</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>SFDC_Links_Label</shortDescription>
+        <value>SFDC Links</value>
+    </labels>
+    <labels>
+        <fullName>Title_Category_C_suite</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Title Category C suite</shortDescription>
+        <value>Chief Executive Officer:Chief Operating Officer:Chief Financial Officer:Chief Investment Officer:Chief Risk Officer:Chief Accounting Officer:Chief Underwriting Officer:Chief Technology Officer:Chief Information Officer:Chief Information Technology Officer:Chief Data Officer:Chief Applications Architect:Chief User Experience Officer:Chief Innovation Officer:Chief Strategy Officer:Chief Marketing Officer:Chief Security Officer:Chief Compliance Officer:Chief Sustainability Officer:Chief People Officer:Chief Talent Officer:Chief Diversity Officer:Chief Human Resources Officer:Chief Growth Officer:Chief Development Officer:Chief Health Officer:Chief Contracting Officer:Chief Procurement Officer:Chief Administrator Officer:Chairman:Vice Chairman:Vice Chair:CEO:COO:CFO:CIO:CRO:CAO:CUO:CTO:CITO:CDO:CAA:CSO:CMO:CCO:CPO:CHO:CGO</value>
+    </labels>
+    <labels>
+        <fullName>Title_Category_Executive</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Title Category Executive</shortDescription>
+        <value>President:Partner:Senior Executive:Executive:Superintendent:Senior Vice President:Vice President:General Manager:Senior Director:Director:Area President:Area Vice President:Regional President:Regional Vice President:Pres:Sr Exec:Exec:SVP:VP:GM:Sr Dir:DIR:AP:AVP:RP:RVP</value>
+    </labels>
+    <labels>
+        <fullName>Title_Category_Manager</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Title Category Manager</shortDescription>
+        <value>Senior Manager:Manager:Senior Advisor:Advisor:Supervisor:Assistant Manager:Associate Manager:Sr Mgr:Mgr:Sr Adv:Adv:Supv:Asst Mgr:Assc Mgr</value>
+    </labels>
+</CustomLabels>
