@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
     <labels>
+        <fullName>Assignment_Group_Name</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Assignment Group Name</shortDescription>
+        <value>FIRE Team</value>
+    </labels>
+    <labels>
         <fullName>Default_Role</fullName>
         <language>en_US</language>
         <protected>false</protected>
@@ -27,6 +34,20 @@
         <protected>false</protected>
         <shortDescription>GuideCx Future callout Limit</shortDescription>
         <value>5</value>
+    </labels>
+    <labels>
+        <fullName>NextGroupMemberUserActiveTime</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Next Group Member User Active Time</shortDescription>
+        <value>960</value>
+    </labels>
+    <labels>
+        <fullName>PRESALESSUPPORTTYPES</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>PRE SALES SUPPORT TYPES</shortDescription>
+        <value>Sequential IP Requests:eSIM Request - Bulk:Other FIRE Support</value>
     </labels>
     <labels>
         <fullName>SFDC_Links_Label</fullName>
