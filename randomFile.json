@@ -1,4 +1,4 @@
 {
-    "this is my URL1":"{!Environment.allFiilesAllFolders}",
+    "this is my URL1":"www.test.com",
     "this is my URL 2":"somethingDifferent.com"
 }
