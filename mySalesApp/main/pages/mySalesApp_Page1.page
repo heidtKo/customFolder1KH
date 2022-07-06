@@ -5,5 +5,5 @@
           <!-- http://this.is.a.combined.scope.test -->
 
   This is a new Change
-  {!Environment.specificFiles_SpecificFolders}
+  <!-- End Default Content REMOVE THIS -->
 </apex:page>
