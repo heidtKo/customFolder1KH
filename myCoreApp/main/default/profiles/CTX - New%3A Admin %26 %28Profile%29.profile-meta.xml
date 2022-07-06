@@ -4067,6 +4067,10 @@
         <enabled>true</enabled>
     </pageAccesses>
     <pageAccesses>
+        <apexPage>doNotMove</apexPage>
+        <enabled>true</enabled>
+    </pageAccesses>
+    <pageAccesses>
         <apexPage>myCoreApp_Page1</apexPage>
         <enabled>true</enabled>
     </pageAccesses>
